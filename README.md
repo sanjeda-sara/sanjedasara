@@ -1,2 +1,2 @@
-# hasibul.github.io
-My website for project, technical articles and more.
+#Sanjeda Sara Jennifer
+Initial website and landing page
